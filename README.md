@@ -1,7 +1,6 @@
-Jonas' notes from Meteor hackaton
-=======
+##Jonas' notes
 
-## how to configure external server resources
+### how to configure external server resources
 
 The easiest solution is to use environmental variable MONGO_URL before running meteor
 
