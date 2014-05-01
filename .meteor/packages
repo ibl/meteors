@@ -6,3 +6,8 @@
 standard-app-packages
 autopublish
 insecure
+<<<<<<< HEAD
+=======
+bootstrap-3
+http
+>>>>>>> 452b01b979e9c565e2c52d9021578499b6b53ebc
